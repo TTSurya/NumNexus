@@ -1,0 +1,6 @@
+The game's implementation can always be improved by making use of better Data Structures and combining 
+all validity functions into just one since there's a lot of code just being repeated causing extra resources.
+The current code has sufficient readability.
+
+Currently, the user has infinite turns to guess the number. The game could always be made more interactive
+by including "scores"/"lives". Additionally, we could enhance the game by creating a "GUI"(Graphical User Interface).

@@ -1,0 +1,6 @@
+I created this mini-project to test my basic understanding of Java. It’s nothing fancy
+like OOP, just a simple program.
+This was actually one of the first programs I ever wrote in Java. The game itself is
+one I used to play with my local and school friends. I always wanted to implement it
+in a programming language, and this was the perfect opportunity to do so.
+I don't know if such a game already exists in the wide Internet.

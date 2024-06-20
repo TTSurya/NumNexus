@@ -1,0 +1,9 @@
+Most of the code is self documented and the logic is basic and clear. I'll just explain my thought process
+for a quick understanding of the code.
+
+1) I wanted to define functions without the use of objects/classes but wasn't sure how to implement that.
+So, I created a class called "methods" which had no members but only methods.
+2) Next, I created a "validity" class that has a single member from the class "methods" to make use of the
+functions I previously defined. The purpose of this class is to define methods that check the validity of a number.
+(Refer rules.txt to understand what I mean by a "valid" number).
+3) Finally, it was time for the big picture, putting all together in the "NumNexus" class and create a functional game.
